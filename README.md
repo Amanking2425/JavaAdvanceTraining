@@ -1,2 +1,2 @@
 
-<h1><bold>Advance Java Training by Capgemini</bold></h1>
+<h1><bold>Advance Java Training by CG</bold></h1>
