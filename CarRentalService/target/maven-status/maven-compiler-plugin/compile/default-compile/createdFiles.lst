@@ -1,0 +1,9 @@
+in\cg\controller\RentalCarController.class
+in\cg\model\RentalCar.class
+in\cg\controller\BookingController.class
+in\cg\repositories\BookingRepository.class
+in\cg\repositories\RentalCarRepository.class
+in\cg\model\Booking.class
+in\cg\service\BookingService.class
+in\cg\main\CarRentalServiceApplication.class
+in\cg\service\RentalCarService.class

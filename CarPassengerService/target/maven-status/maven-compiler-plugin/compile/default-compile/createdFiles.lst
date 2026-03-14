@@ -1,0 +1,8 @@
+in\cg\model\Passenger.class
+in\cg\dto\BookingDTO.class
+in\cg\repositories\PassengerRepository.class
+in\cg\dto\RentalCarDTO.class
+in\cg\controller\PassengerController.class
+in\cg\feign\CarRentalsFeignClient.class
+in\cg\service\PassengerService.class
+in\cg\main\CarPassengerServiceApplication.class
